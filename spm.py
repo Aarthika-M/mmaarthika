@@ -1,4 +1,4 @@
 a=300
-b=40
+b=50
 print(a+b)
 print(a-b)
